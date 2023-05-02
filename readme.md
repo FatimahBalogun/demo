@@ -1,3 +1,3 @@
-# dEMO
+# Demo
 
 SOMETHING NEW
